@@ -1,0 +1,29 @@
+body {
+  background-color: #fbdff0;
+  font-family: 'Poppins', sans-serif;
+  margin: 5%;
+}
+hr {
+  color: grey;
+  border-style: none;
+  border-top: thick dotted;
+  width:5%;
+}
+img {
+  border-radius: 50%
+}
+
+.Top {
+  text-align: center;
+
+}
+
+h1 {
+  text-align: center;
+  color: #381460;
+  font-family: 'Parisienne', cursive;
+}
+h2 {
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+}
